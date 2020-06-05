@@ -9,3 +9,8 @@ It supports user authentication (login / password), allowing user to add, edit a
 
 * SQLite
 <img src="/app/assets/images/blog.png">
+<img src="/app/assets/images/show.png">
+<img src="/app/assets/images/about.png">
+<img src="/app/assets/images/error.png">
+
+<br>
